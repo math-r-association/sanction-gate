@@ -1,0 +1,15 @@
+Sanction Gate - A2A Extension Specification
+Draft v0.1-experimental
+
+Association Math.R, Monthey (VS), Switzerland - CHE-382.094.724
+https://mathr.ch/ext/sanction-gate/v1
+
+This directory contains the separate A2A binding, licensed under the Apache
+License, Version 2.0. See LICENSE-APACHE-2.0.txt.
+
+The substrate-neutral Sanction Gate specification in ../spec is a separate
+work under CC BY 4.0. The Apache licence for this binding does not apply to it.
+
+This is an unofficial, experimental extension proposal. It is not endorsed
+by the A2A project or the Linux Foundation.
+
