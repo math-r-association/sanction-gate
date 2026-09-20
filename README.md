@@ -11,6 +11,8 @@ This repository distributes the documents published at [mathr.ch](https://mathr.
 | [The Sanction Gate](spec/v0.3.md) | v0.3 - Public Research Draft | [CC BY 4.0](spec/LICENSE-CC-BY-4.0.txt) |
 | [A2A extension binding](a2a-ext/v1.md) | v0.1-experimental; extension URI ends in `/v1` | [Apache 2.0](a2a-ext/LICENSE-APACHE-2.0.txt), [NOTICE](a2a-ext/NOTICE) |
 
+**A2A extension proposal:** open for maintainer review — [a2aproject/A2A#2250](https://github.com/a2aproject/A2A/issues/2250).
+
 The standalone specification is a research specification and protocol candidate, not a production standard. The A2A binding is an unofficial, experimental proposal, not endorsed by the A2A project or the Linux Foundation. The reference implementation is not yet available.
 
 ## Canonical sources and citation
